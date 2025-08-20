@@ -66,8 +66,8 @@ menu a {
     text-align: center;
 }
 
-.flex-between img{
-    padding: 10px 0 0 0 ;
+.flex-between img {
+    padding: 10px 0 0 0;
 }
 
 h3 {
@@ -82,7 +82,12 @@ figcaption {
     height: 40%;
 }
 
-
+.flex-between-phone p {
+    color: #0000EE;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
 
 div.work-picture {
     padding: 87rem;
@@ -139,26 +144,26 @@ img {
     object-fit: cover;
 }
 
-.flex-between-email img{
-  padding: 0 10px 0 0 ;
-  min-width: 50px;
+.flex-between-email img {
+    padding: 0 10px 0 0;
+    min-width: 50px;
 }
 
-.flex-between-phone img{
+.flex-between-phone img {
     max-width: 45rem;
     padding: 0 0 0 10px;
 }
 
-.flex-between-phone a{
+.flex-between-phone a {
     display: flex;
     justify-content: center;
     min-width: 100px;
 }
 
-.contacts-text{
-   color: #000;
-   font-size: 16px;
-   line-height: 55rem;
+.contacts-text {
+    color: #000;
+    font-size: 16px;
+    line-height: 55rem;
 }
 
 
@@ -210,7 +215,7 @@ img {
 }
 
 h2 {
-    padding: 10px 0 0 0 ;
+    padding: 10px 0 0 0;
 }
 
 body {
