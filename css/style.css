@@ -73,7 +73,7 @@ menu a {
 h3 {
     background-color: #333;
     color: white;
-    padding: 20rem;
+    padding: 20rem ;
 }
 
 figcaption {
@@ -87,10 +87,15 @@ figcaption {
     width: 100px;
     display: flex;
     justify-content: center;
+    padding:5px 0 ;
+}
+
+.flex-between>a img{
+    padding: 5rem;
 }
 
 div.work-picture {
-    padding: 87rem;
+    padding: 10rem;
 }
 
 .footer {
@@ -109,7 +114,6 @@ h2 {
 h1,
 h2,
 h3 {
-    font-weight: 400rem;
     text-align: center;
 }
 
@@ -164,6 +168,15 @@ img {
     color: #000;
     font-size: 16px;
     line-height: 55rem;
+}
+
+.contacts-text span{
+     font-size: 35rem;
+}
+
+.contacts-text a{
+    color: #333;
+    font-size: 25rem;
 }
 
 
